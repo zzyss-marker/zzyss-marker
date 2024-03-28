@@ -1,6 +1,8 @@
 # Hello, I'm Pi-xiu 👋
 
-  ![](https://komarev.com/ghpvc/?username=zzyss-marker)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zzyss-marker" alt="profile view count">
+</p>
 
 Welcome to my special corner on GitHub! As a passionate enthusiast for mathematical modeling with a pinch of computer science, I'm delving into the realms of Python syntax and C++ algorithms. My journey here is driven by a love for computational challenges and a hearty appetite for learning (and food!).
 
