@@ -1,4 +1,4 @@
-<p align="center"># Hello, I'm Pi-xiu 👋</p>
+# Hello, I'm Pi-xiu 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zzyss-marker" alt="profile view count">
