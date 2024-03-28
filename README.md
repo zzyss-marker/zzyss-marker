@@ -1,5 +1,5 @@
 # Hello, I'm Pi-xiu 👋
-<p align="center">
+
   ![](https://komarev.com/ghpvc/?username=zzyss-marker)
 
 Welcome to my special corner on GitHub! As a passionate enthusiast for mathematical modeling with a pinch of computer science, I'm delving into the realms of Python syntax and C++ algorithms. My journey here is driven by a love for computational challenges and a hearty appetite for learning (and food!).
