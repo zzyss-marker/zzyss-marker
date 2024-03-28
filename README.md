@@ -1,6 +1,6 @@
 # Hello, I'm Pi-xiu 👋
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atticuszz&label=Profile%20views&color=0e75b6&style=flat" alt="atticuszz" />
+  <img src="![](https://komarev.com/ghpvc/?username=your-github-username)" alt="atticuszz" />
 </p>
 Welcome to my special corner on GitHub! As a passionate enthusiast for mathematical modeling with a pinch of computer science, I'm delving into the realms of Python syntax and C++ algorithms. My journey here is driven by a love for computational challenges and a hearty appetite for learning (and food!).
 
