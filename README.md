@@ -17,11 +17,8 @@ Welcome to my special corner on GitHub! As a passionate enthusiast for mathemati
 
 ## My GitHub Journey
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide=stars,prs)
-> **Note:** Replace `YourUsername` with your actual GitHub username in the image URL to show your real stats.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-> **Note:** This card showcases the languages I'm exploring. Remember to substitute `YourUsername` with your GitHub username for an accurate display.
+[![Github stats](https://github-readme-stats.vercel.app/api?username=zzyss-marker&show_icons=true&include_all_commits=true)](https://github.com/zzysss-marker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyss-marker&layout=compact)](https://github.com/zzyss-marker/github-readme-stats)
 
 ### Let's Connect and Build Together!
 
