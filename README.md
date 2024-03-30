@@ -19,9 +19,8 @@ Welcome to my special corner on GitHub! As a passionate enthusiast for mathemati
 
 ## My GitHub Journey
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=zzyss-marker&show_icons=true&include_all_commits=true)](https://github.com/zzyss-marker/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyss-marker&layout=compact)](https://github.com/zzyss-marker/github-readme-stats)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=zzyss-marker&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyss-marker&layout=compact)
 
 ### Let's Connect and Build Together!
 
