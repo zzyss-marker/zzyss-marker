@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4de3370f-b2e1-4113-ab5a-72e3bee7c6b4)# Hello, I'm Pi-xiu 👋
+# Hello, I'm Pi-xiu 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zzyss-marker" alt="profile view count">
