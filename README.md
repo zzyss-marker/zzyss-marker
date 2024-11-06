@@ -28,6 +28,9 @@ Welcome to my special corner on GitHub! As a passionate enthusiast for mathemati
 <!-- 连续贡献统计 -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzyss-marker&theme=radical&hide_border=true)
 
+<!-- 显示奖杯 -->
+![trophy](https://github-profile-trophy.vercel.app/?username=zzyss-marker&theme=radical&row=1&column=6)
+
 ### Let's Connect and Build Together!
 
 Whether you're a fellow foodie with a knack for coding or someone who's intrigued by the potential of computational models in solving real-world problems, I believe we can learn a lot from each other. Let's embark on this journey of discovery, collaboration, and innovation.
