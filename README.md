@@ -18,11 +18,14 @@ Welcome to my special corner on GitHub! As a passionate enthusiast for mathemati
 - ⚡ **Fun Fact:** Beyond the screen, I'm a self-proclaimed foodie with an insatiable love for discovering new cuisines and flavors. 
 
 ## 我的 GitHub 统计
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zzyss-marker&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyss-marker&layout=compact&theme=radical&hide_border=true)
+<!-- GitHub 统计卡片 -->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zzyss-marker&show_icons=true&theme=radical&include_all_commits=true)
 
-<!-- 添加更多美化卡片 -->
+<!-- 语言统计 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyss-marker&layout=compact&theme=radical&hide_border=true)
+
+<!-- 连续贡献统计 -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzyss-marker&theme=radical&hide_border=true)
 
 ### Let's Connect and Build Together!
