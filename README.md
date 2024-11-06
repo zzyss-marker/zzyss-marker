@@ -23,7 +23,7 @@ Welcome to my special corner on GitHub! As a passionate enthusiast for mathemati
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=zzyss-marker&show_icons=true&theme=radical&include_all_commits=true)
 
 <!-- 语言统计 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyss-marker&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzyss-marker&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)
 
 <!-- 连续贡献统计 -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzyss-marker&theme=radical&hide_border=true)
