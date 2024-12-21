@@ -28,6 +28,8 @@ I'm a passionate developer with a keen interest in open-source projects and inno
 
 Here are some of my top projects:
 
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 🐶
+
 1. [**triple-branch-deepfake**](https://github.com/zzyss-marker/triple-branch-deepfake.git) - A fake face detection system based on a three-branch deep learning framework, innovatively combining spatial domain features, frequency domain features, and high-frequency noise features to achieve high-precision fake face recognition.
 2. [**PlantHealthMonitor**](https://github.com/zzyss-marker/PlantHealthMonitor.git) - Plant Health Monitor is a deep learning-based plant disease detection system that analyzes leaf images to detect diseases in real-time. The system is built using the PyTorch framework and supports running on both Windows and Raspberry Pi, making it suitable for agricultural production environments.
 
